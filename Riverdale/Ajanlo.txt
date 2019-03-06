@@ -1,0 +1,7 @@
+HTML>
+ <Head>
+  <TITLE> Történet</TITLE>
+ </Head> 
+ <BODY BGCOLOR="GREEN">
+ <H1 ALIGN="CENTER"><FONT color="Black">Történet</FONT></H1>
+  <A HREF="Riverdale.html">vissza</A>
